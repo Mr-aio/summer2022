@@ -1,0 +1,9 @@
+<script type="module" src="https://code4fukui.github.io/csv-map/csv-map.js"></script>
+<csv-map>
+title,url,filename,geo3x3
+深野さん,https://scontent-sjc3-1.xx.fbcdn.net/v/t1.18169-9/13265979_10154896933268626_6150045709549583259_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=t1u69FKJKj8AX9DZ47o&_nc_ht=scontent-sjc3-1.xx&oh=00_AT__ib7kjCJY8OBzoDm-WLzubxZLv4wH3HYIOKtQVhP0Jg&oe=62F764EB,13265979_10154896933268626_6150045709549583259_n.jpg,E913873235844
+かずさん,https://www.pixilart.com/art/kazu-sr2b2afe5dda2f0,https://art.pixilart.com/sr2b2afe5dda2f0.png,E91387364871
+土直漆器さん,https://drive.google.com/file/d/1v2KcxfeGGbRI8m7Qh1n79taz_Az2AP6Z/view,職人_漆器.jpeg,E9138733613632
+竹部美樹さん,https://drive.google.com/file/d/14KkH5p8atF881VGyuGUhtxP772PAEFOD/view,289840415_447970030477174_3256146289865871372_n.jpg,E9138732293361
+化石学者さん,https://live.staticflickr.com/8736/17438823675_22b17d03fc_b.jpg,17438823675_22b17d03fc_b.jpg,E913881688339
+</csv-map>
